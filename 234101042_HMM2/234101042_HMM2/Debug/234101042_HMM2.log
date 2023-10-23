@@ -1,0 +1,32 @@
+﻿Build started 23-10-2023 18:33:08.
+     1>Project "C:\Users\Risheek\Desktop\234101042_HMM\234101042_HMM2\234101042_HMM2\234101042_HMM2.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\234101042_HMM2.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\234101042_HMM2.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\234101042_HMM2.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt 234101042_HMM2.cpp
+         234101042_HMM2.cpp
+     1>c:\users\risheek\desktop\234101042_hmm\234101042_hmm2\234101042_hmm2\234101042_hmm2.cpp(65): warning C4244: 'argument' : conversion from 'double' to 'unsigned int', possible loss of data
+     1>c:\users\risheek\desktop\234101042_hmm\234101042_hmm2\234101042_hmm2\234101042_hmm2.cpp(75): warning C4244: 'argument' : conversion from 'double' to 'unsigned int', possible loss of data
+     1>c:\users\risheek\desktop\234101042_hmm\234101042_hmm2\234101042_hmm2\234101042_hmm2.cpp(121): warning C4018: '<' : signed/unsigned mismatch
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\234101042_HMM2.exe.embed.manifest.res" Debug\234101042_HMM2_manifest.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Risheek\Desktop\234101042_HMM\234101042_HMM2\Debug\234101042_HMM2.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\234101042_HMM2.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Risheek\Desktop\234101042_HMM\234101042_HMM2\Debug\234101042_HMM2.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Risheek\Desktop\234101042_HMM\234101042_HMM2\Debug\234101042_HMM2.lib" /MACHINE:X86 Debug\234101042_HMM2.exe.embed.manifest.res
+         Debug\234101042_HMM2.obj
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\234101042_HMM2.exe.embed.manifest" /manifest Debug\234101042_HMM2.exe.intermediate.manifest
+         All outputs are up-to-date.
+       LinkEmbedManifest:
+         All outputs are up-to-date.
+         234101042_HMM2.vcxproj -> C:\Users\Risheek\Desktop\234101042_HMM\234101042_HMM2\Debug\234101042_HMM2.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\234101042_HMM2.unsuccessfulbuild".
+         Touching "Debug\234101042_HMM2.lastbuildstate".
+     1>Done Building Project "C:\Users\Risheek\Desktop\234101042_HMM\234101042_HMM2\234101042_HMM2\234101042_HMM2.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.47
